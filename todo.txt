@@ -1,0 +1,39 @@
+// Terminal
+- zsh
+- p10k
+- z
+- zsh-suggestions
+- oh-my-zsh
+
+// NeoVim
+- lsp
+- lsp mason
+- packer
+
+// Tools
+- alacritty
+- slack
+- figma
+- chrome
+- notion
+
+// Communication
+- slack
+- discord
+- signal
+
+// Programming
+- docker
+- neovim
+- vscode
+
+// Configs
+- dotfiles
+
+// Security
+- sshkeys
+
+// Create folders
+- projects
+- work
+
