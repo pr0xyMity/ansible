@@ -1,9 +1,5 @@
 - hosts: localhost
   gather_facts: true
   tasks:
-    - name: Install zsh on macOS
-      command: brew install zsh
-      when: ansible_distribution == "MacOSX"
-    - name: Install zsh on Ubuntu
-      command: brew install zsh
-      when: ansible_distribution == "Ubuntu"
+    - include: tasks/zsh.yml
+    - include: tasks/brew.yml

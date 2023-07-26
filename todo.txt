@@ -31,7 +31,7 @@
 - dotfiles
 
 // Security
-- sshkeys
+- sshkey 
 
 // Create folders
 - projects
